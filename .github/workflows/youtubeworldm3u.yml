@@ -28,7 +28,7 @@ jobs:
       - name: Checkout target repo
         uses: actions/checkout@v4
         with:
-          repository: zzq1234567890/epg
+          repository: MingHoChen/epg
           token: ${{ secrets.GITHUB_TOKEN }}
           path: epg
 
