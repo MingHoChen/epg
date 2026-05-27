@@ -10,7 +10,6 @@ KBSWorld
 第一財經
 東方財經
 快樂垂釣
-茶頻道
 遊戲風雲
 生活時尚
 動漫秀場
@@ -31,15 +30,9 @@ KBSWorld
 嘉佳卡通
 中國教育-2
 家庭理財
-HOY 國際財經臺
-HOY TV
-HOY 資訊臺
-HOY體育臺
-亞洲女子聯賽冠軍盃 - 內古香 對 胡志明市 (下午3:55)
-HOY怪談臺
-HOY生活臺
-HOY劇集臺
-MotorVision
+HOY 76
+HOY 77
+HOY 78
 翡翠臺
 翡翠臺(國際版)
 無線新聞(國際版)
@@ -131,7 +124,6 @@ cgtn英文記錄片
 北京衛視
 東方衛視
 江蘇衛視
-浙江衛視
 湖南衛視
 湖北衛視
 廣東衛視
@@ -404,13 +396,13 @@ kix非洲
 kix亞洲
 SUPER FREE (免費)
 SUPER獎門人 (免費)
-觀眾票選-追劇馬拉松 (免費)
+觀眾票選-追劇馬拉松 (免費)(6月1日6時起改為愛．回家SUPER煲 (免費))
 SUPER識食 (免費)
-SUPER識嘆 (免費)
+SUPER FUN (免費)
 SUPER Music (免費)
-SUPER金曲 (免費)
+SUPER驚 (免費)
 SUPER煲劇 (免費)
-SUPER單元劇 (免費)
+SUPER亞視劇 (免費)
 真情SUPER煲 (免費)
 SUPER Sports (免費)
 myTV SUPER 18臺
@@ -509,12 +501,12 @@ CINEMAX香港
 HBO Signature香港
 HBO香港
 MOVIE MOVIE
+HITS MOVIES
 爆谷臺
 Now爆谷星影臺
 Animax香港
 tvN香港
 KBS World香港
-東森亞洲
 moov
 Panda TV
 Discovery Asia香港
@@ -546,9 +538,8 @@ now新聞
 now財經
 now報價
 鳳凰資訊
-智叻樂園
-鳳凰中文
 香港衛視
+智叻樂園
 Cartoon Network香港
 Nickelodeon香港
 CBeebies香港
@@ -562,7 +553,6 @@ Lifetime香港
 Food Network香港
 亞洲美食臺香港
 旅遊頻道香港
-居家樂活頻道香港
 Netflix香港
 深圳衛視香港
 CCTV-1香港
@@ -570,11 +560,14 @@ CCTV-4香港
 大灣區衛視香港
 中央電視臺新聞頻道香港
 鳳凰衛視中文臺
-OneTV 綜合頻道
 三沙衛視香港
 ABC Australia香港
 now體育
-now體育4k
+now體育1 4k
+now體育2 4k
+now體育3 4k
+now體育618
+now體育619
 Now Sports 英超TV
 Now Sports 英超TV1
 Now Sports 英超 TV2
@@ -611,7 +604,6 @@ Now Sports plus
 Now Sports 681
 Now 高爾夫2
 Now 高爾夫3
-Lucky 688
 NHK HD
 TV5MONDE Style
 TV5MONDE ASIE
@@ -755,6 +747,7 @@ CCTV6 電影頻道
 河南象世界
 河南歡騰購物
 國學時代界
+浙江衛視
 浙江錢江都市
 浙江經濟
 浙江科教
@@ -770,12 +763,12 @@ CCTV6 電影頻道
 廣東大灣區衛視
 廣東體育
 廣東影視
-廣東綜藝
+廣東4K超高清
 廣東少兒
 廣東嘉佳卡通
-廣東現代教育
 廣東移動
 廣東嶺南戲曲
+廣東GRTN生活頻道
 陝西新聞資訊
 陝西都市青春
 陝西樂家購物
@@ -792,11 +785,11 @@ CCTV6 電影頻道
 廈門1
 廈門2
 河北經濟
-河北農民
+河北三農頻道
 河北都市
-河北影視劇
+河北文旅體育
 河北少兒科教
-河北公共
+河北三佳購物
 山東新聞
 山東齊魯
 山東體育
@@ -1053,6 +1046,7 @@ trace sport star運動明星
 寰宇新聞臺灣臺
 中視菁採臺
 紅豆2臺
+信吉藝文臺
 亞洲旅遊臺有線
 智林體育臺有線
 Bloomberg Television
@@ -1109,6 +1103,7 @@ DreamWorks
 EUROSPORT
 GinxTV電競頻道
 GlobalTrekker
+GlobalTrekker(免費)
 HamiWBC1臺
 HamiWBC2臺
 Hami體育1臺
@@ -1127,14 +1122,12 @@ LOVENATURE
 MezzoLive
 momo綜合臺
 momo親子臺
-momo親子臺(免費)
 NHK新聞資訊臺
 NickJr.
 PETCLUBTV
 ROCKAction
 ROCKEntertainment
 ROCKXStream
-ROCKXStream(免費)
 TRACESportStars
 TraceUrban
 TravelChannel
@@ -1149,6 +1142,7 @@ WarnerTV
 亞洲旅遊臺
 八大精彩臺
 八大綜藝臺
+八大綜藝臺(免費)
 公視戲劇
 博斯無限臺
 博斯網球檯
@@ -1162,7 +1156,7 @@ WarnerTV
 尼克兒童頻道
 影迷數位紀實臺
 影迷數位電影臺
-愛爾達娛樂臺
+愛爾達寵物運動臺
 愛爾達影劇臺
 愛爾達日韓臺
 愛爾達綜合臺
@@ -1173,12 +1167,12 @@ WarnerTV
 東森財經臺
 民視影劇臺
 民視綜藝臺
-民視綜藝臺(免費)
 空中英語教室
+空中英語教室(免費)
 罪案偵緝頻道
 華視主頻
-華視新聞資訊臺(免費)
 豬哥亮歌廳秀
+達文西頻道(免費)
 採昌影劇臺
 金光布袋戲
 電影原聲臺CMusic
@@ -1212,9 +1206,10 @@ KLT-靖天國際臺
 韓國娛樂臺 KMTV
 Lifetime 娛樂頻道
 TRACE Urban
-FashionTV 時尚頻道
 CLASSICA 古典樂
 東森購物三臺
+博斯高球檯
+博斯魅力臺
 智林體育臺
 時尚運動X
 車迷TV
@@ -1272,7 +1267,7 @@ TVBS臺劇臺
 古裝武俠劇-FastTV飛速看
 以愛為營-FastTV飛速看
 藍色水玲瓏-FastTV飛速看
-精彩陸劇-FastTV飛速看
+精彩陸劇1臺-FastTV飛速看
 包青天-FastTV飛速看
 007情報員-FastTV飛速看
 賀歲電影推薦-FastTV飛速看
@@ -1282,9 +1277,12 @@ TVBS臺劇臺
 親戚不計較(特輯)-FastTV飛速看
 日劇一丁目-FastTV飛速看
 武媚娘傳奇-FastTV飛速看
+精彩陸劇2臺-FastTV飛速看
 中國傳奇故事-FastTV飛速看
 機智校園生活-FastTV飛速看
 女力報到-FastTV飛速看
+終極一班-FastTV飛速看
+鬥魚-FastTV飛速看
 天才衝衝衝-FastTV飛速看
 一字千金-FastTV飛速看
 綜藝大集合-FastTV飛速看
@@ -1300,6 +1298,7 @@ WTO姐妹會-FastTV飛速看
 超級冰冰Show-FastTV飛速看
 豬哥會社-FastTV飛速看
 全能歌手-FastTV飛速看
+民視生活通-FastTV飛速看
 鬥陣大廟埕-FastTV飛速看
 我的成長-FastTV飛速看
 健康2.0-FastTV飛速看
@@ -1316,8 +1315,6 @@ TVBS看板人物-FastTV飛速看
 爸媽囧很大-FastTV飛速看
 醫學大聯盟-FastTV飛速看
 GoGoTaiwan-FastTV飛速看
-新春歡樂不斷電-FastTV飛速看
-新春神馬攏賀 添財衝衝衝-FastTV飛速看
 2025雙北世壯運-FastTV飛速看
 一起追韓星-FastTV飛速看
 韓流美食料理秀-FastTV飛速看
@@ -1382,6 +1379,10 @@ EBS EDUCATION
 NHK 日本國家電視臺
 SPOTV  
 SPOTV   2
+球王臺
+球迷臺
+英超1臺
+英超2臺
 Eurosoprt HD
 HITS電影臺 
 ROCK Entertainme
@@ -1550,6 +1551,33 @@ SiCAR愛車酷
 紓壓雷雨聲
 療癒下雨聲
 放鬆的爵士午後
+石家莊新聞綜合
+石家莊文化娛樂
+承德新聞綜合
+承德旅遊文化
+張家口新聞綜合
+張家口公共
+秦皇島新聞綜合
+秦皇島民生
+唐山新聞綜合
+唐山生活服務
+唐山影視
+唐山公共
+廊坊新聞
+廊坊公共
+滄州新聞綜合
+滄州公共
+滄州影視娛樂
+保定新聞綜合
+保定公共頻道
+保定生活健康
+衡水新聞綜合
+衡水經濟科教
+邢臺綜合
+邢臺城市生活
+邯鄲新聞綜合
+邯鄲公共
+邯鄲科技教育
 廣州綜合
 廣州新聞
 深圳都市
@@ -1571,7 +1599,6 @@ SiCAR愛車酷
 汕頭新聞綜合
 汕頭經濟生活
 揭陽綜合
-揭陽生活
 潮州綜合
 潮州民生
 汕尾新聞綜合
@@ -1589,9 +1616,7 @@ SiCAR愛車酷
 睛彩青少
 睛彩廣場舞
 廣州南國都市4K
-BBC_First_HD
 Smithsonian_Channel
-BBC_Brit_HD
 TV1_HD
 TV2_HD
 TV3
@@ -1646,6 +1671,7 @@ NHK_World_Premium
 HITS_MOVIES_HD
 Astro_Boo
 Astro_Showtime
+Astro_FAM_Time
 Astro_Showcase
 Rock_Action
 Rock_X_Stream
@@ -1685,7 +1711,6 @@ TLC_HD
 Asian_Food_Network_HD
 Crime__amp__Investigation_HD
 HGTV_HD
-BBC_Lifestyle_HD
 Astro_Arena
 Astro_Arena_2
 Arena_Bola
@@ -1696,6 +1721,7 @@ Astro_Premier_League
 Astro_Premier_League_2
 Astro_Football
 Astro_Badminton
+Astro_Badminton_2
 Astro_Sports_Plus
 Astro_Sports_Plus_2
 beIN_SPORTS_1
@@ -1764,7 +1790,6 @@ Galaxy Premium
 GTV
 GTV HD
 Hanacaraka TV
-HITS MOVIES
 HITS MOVIES HD
 IDX
 IDX HD
