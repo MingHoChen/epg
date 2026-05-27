@@ -80,7 +80,7 @@ def debug_json_structure(url, max_size=10*1024*1024):
         traceback.print_exc()
 
 def main():
-    url = "https://raw.githubusercontent.com/zzq1234567890/epg/main/traditional_channels_table.json"
+    url = "https://raw.githubusercontent.com/MingHoChen/epg/main/traditional_channels_table.json"
     debug_json_structure(url)
 
 if __name__ == "__main__":
