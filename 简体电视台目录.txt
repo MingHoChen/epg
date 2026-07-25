@@ -1,7 +1,8 @@
-fjtv-zhpd
-fjtv-xwpd
-fjtv-wlty
-fjtv-sepd
+福建綜合頻道
+福建新聞頻道
+福建文旅·體育頻道
+福建少兒頻道
+東南衞視
 CCTV-4美洲頻道
 CCTV-4歐洲頻道
 香港電台31
